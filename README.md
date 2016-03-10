@@ -7,7 +7,7 @@ Please read the following requirements and complete each section. Please describ
 ### General Information
 * You may utilize the ```test.html``` file to complete each question. If not, ensure you grab the ```<!-- Required Javascript Files -->``` section.
 * Bootstrap CSS + Javascript has been included as well.
-* Feel free to use Javascript frameworks (e.g. AngularJS)/
+* Feel free to use Javascript frameworks (e.g. AngularJS).
 
 ### Question 1
 An API endpoint has been called which returns a JSON in the following format:
@@ -65,7 +65,7 @@ Is Suspended?
 ### Question 2
 On the page where users have been iterated, add a ```Create``` button.
 
-This button should trigger a modal that displays the following fields:
+This button should trigger a modal that displays the following fields within a form:
 
 ```
 Email
