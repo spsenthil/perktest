@@ -9,6 +9,13 @@ Please read the following requirements and complete each section. Please describ
 * Bootstrap CSS + Javascript has been included as well.
 * Feel free to use Javascript frameworks (e.g. AngularJS).
 
+### Git & Pull Requests
+* Fork this repository.
+* Create a new branch called programming-test and commit your changes there.
+* Commit as often as you wish.
+* Push your changes to your repository fork.
+* Send in a pull request with your completed submission.
+
 ### Question 1
 An API endpoint has been called which returns a JSON in the following format:
 
